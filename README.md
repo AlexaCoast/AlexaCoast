@@ -1,7 +1,7 @@
 ### Ol! Eu sou Alexia Luiza
 
 - 🔭 Apaixonada por soluções
-- 🌱 Atualmente estuando UX/IU Design - Front-End
+- 🌱 Atualmente estudando UX/IU Design - Front-End
 
 
 <div align="center">
