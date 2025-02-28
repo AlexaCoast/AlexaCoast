@@ -13,10 +13,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alexia-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Alexia-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg">
+  <img align="center" alt="Alexia-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="Alexia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alexia-Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
   <img align="center" alt="Alexia-Tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
   <img align="center" alt="Alexia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alexia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
