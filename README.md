@@ -5,7 +5,7 @@ Gosto de contar histórias com dados. Atualmente, estou me aprofundando em Anál
 ### O que eu faço  
 
 - Como Analista de Dados, foco na modelagem de dados, desde a remoção até a visualização.  
-- Especializada em **SQL, Power BI, Data Analytics e SQL Server**.  
+- Ferramentas: **SQL, Power BI, Data Analytics e SQL Server**.  
 - Exploro e descubro os porquês por trás dos acontecimentos.  
 
 ---
